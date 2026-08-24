@@ -34,7 +34,6 @@ public class Ex1 {
 				break;
 			default:
 				System.out.println("Opção inválida");
-				break;
 		}
 		leia.close();
 	}
